@@ -14,7 +14,8 @@ Faça o download  do projeto para sua maquina, após isso, acesse a pasta atrav�
 feito isso, todos os pacotes serão baixados. É necessário ter instalado o node e o mysql para que a aplicação funcione.
 
 -v: 0
--------------//------------------------//--------------------------//-------------------------------//---------------------------------//
+
+-----------//------------------------//--------------------------//-------------------------------//---------------------------------//
 
 # App-AskAnswer
 Application of questions and answers with nodejs + Mysql;
