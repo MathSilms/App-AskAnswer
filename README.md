@@ -4,7 +4,7 @@
  nivel de complexidade : Easy ;
 
 Dependencies / version : 
- - express: frameword para nodejs que auxilia nos métodos Http e rotas; ^4.17.1
+ - express: framework para nodejs que auxilia nos métodos Http e rotas; ^4.17.1
  - body-parser: É um módulo capaz de converter o body da requisição para vários formatos; ^1.19.0,
  - ejs: Tamplate engine para nodejs, utilizado para construir o Front-end da aplicação; ^3.0.2 ,
  - sequelize: É um ORM (Object-Relational Mapper) para nodejs, e faz o mapeamento de dados relacionais (tabelas, colunas e linhas) para        objetos Javascript; ^5.21.6
